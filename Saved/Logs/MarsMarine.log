@@ -583,3 +583,182 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.02-12.18.29:438][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
 [2019.11.02-12.18.31:563][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
 [2019.11.02-12.18.33:138][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.11.02-12.24.27:470][ 63]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.02-12.24.40:989][254]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.02-12.24.48:110][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.24.48:269][978]LogRenderer: Reallocating scene render targets to support 1820x916 Format 10 NumSamples 1 (Frame:23307).
+[2019.11.02-12.24.48:322][979]LogRenderer: Reallocating scene render targets to support 1848x916 Format 10 NumSamples 1 (Frame:23309).
+[2019.11.02-12.24.48:374][980]LogRenderer: Reallocating scene render targets to support 1872x916 Format 10 NumSamples 1 (Frame:23311).
+[2019.11.02-12.24.48:422][981]LogRenderer: Reallocating scene render targets to support 1884x916 Format 10 NumSamples 1 (Frame:23313).
+[2019.11.02-12.24.48:665][998]LogRenderer: Reallocating scene render targets to support 1892x916 Format 10 NumSamples 1 (Frame:23319).
+[2019.11.02-12.24.51:400][268]LogRenderer: Reallocating scene render targets to support 1892x920 Format 10 NumSamples 1 (Frame:23530).
+[2019.11.02-12.24.51:454][269]LogRenderer: Reallocating scene render targets to support 1892x956 Format 10 NumSamples 1 (Frame:23532).
+[2019.11.02-12.24.51:519][270]LogRenderer: Reallocating scene render targets to support 1892x984 Format 10 NumSamples 1 (Frame:23534).
+[2019.11.02-12.24.51:734][281]LogRenderer: Reallocating scene render targets to support 1892x992 Format 10 NumSamples 1 (Frame:23538).
+[2019.11.02-12.24.51:783][282]LogRenderer: Reallocating scene render targets to support 1892x1000 Format 10 NumSamples 1 (Frame:23540).
+[2019.11.02-12.25.42:199][289]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.02-12.26.02:130][820]LogSlate: Took 0.005266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.02-12.26.42:136][820]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.02-12.27.07:376][305]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (25.210 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.02-12.27.18:429][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-12.27.18:453][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.02-12.27.18:734][395]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/MarsA7751D5B4F23E5EE8478B1A73E95D286.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap'
+[2019.11.02-12.27.18:765][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2019.11.02-12.27.18:903][395]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_BuiltData97700FD348173B84A283C6821709C799.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2019.11.02-12.28.18:121][217]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.02-12.28.44:355][830]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/GameModes/bp_marsMarineGameMode.bp_marsMarineGameMode
+[2019.11.02-12.28.44:621][830]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.02-12.28.48:630][ 66]LogSlate: Window 'bp_marsMarineGameMode' being destroyed
+[2019.11.02-12.28.48:640][ 67]LogRenderer: Reallocating scene render targets to support 2824x1428 Format 10 NumSamples 1 (Frame:37199).
+[2019.11.02-12.28.50:268][239]LogSlate: Took 0.005144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.02-12.28.57:214][ 69]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.02-12.29.12:502][891]BlueprintLog: New page: Compile bp_marsMarineGameMode
+[2019.11.02-12.29.12:654][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.02-12.29.13:352][954]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/bp_marsMarineGameMode50275729438F72373D793F9C9C5A0D74.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Blueprints/GameModes/bp_marsMarineGameMode.uasset'
+[2019.11.02-12.29.38:249][971]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.11.02-12.29.39:331][971]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.02-12.30.17:920][ 15]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.02-12.30.29:101][963]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.02-12.30.29:110][963]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.02-12.30.31:360][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-12.30.31:417][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.11.02-12.30.31:719][ 85]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars7EDFC64D46E588088E8FFBA39CE4E6E1.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap'
+[2019.11.02-12.30.31:745][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2019.11.02-12.30.31:838][ 85]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_BuiltDataE6EB1B9741AD370C6F8EBC906AEF33F5.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2019.11.02-12.30.33:937][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.02-12.30.33:956][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.30.33:958][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.02-12.30.33:963][180]PIE: New page: PIE session: Mars (Nov 2, 2019, 2:30:33 PM)
+[2019.11.02-12.30.33:979][180]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2019.11.02-12.30.34:011][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031790s)
+[2019.11.02-12.30.34:012][180]LogAIModule: Creating AISystem for world Mars
+[2019.11.02-12.30.34:013][180]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2019.11.02-12.30.34:013][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.033586s)
+[2019.11.02-12.30.34:053][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.02-12.30.34:063][180]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.02-12.30.34:073][180]LogInit: FAudioDevice initialized.
+[2019.11.02-12.30.34:116][180]LogLoad: Game class is 'GameMode'
+[2019.11.02-12.30.34:133][180]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2019.11.02-13.30.34
+[2019.11.02-12.30.34:135][180]LogWorld: Bringing up level for play took: 0.007948
+[2019.11.02-12.30.34:171][180]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.02-12.30.34:180][180]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.02-12.30.34:181][180]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.11.02-12.30.34:181][180]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.02-12.30.34:181][180]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.02-12.30.34:181][180]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.02-12.30.34:189][180]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.02-12.30.34:190][180]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Mars 0.926
+[2019.11.02-12.30.34:190][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.30.39:069][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.30.39:071][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.30.39:102][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.02-12.30.39:102][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.30.39:146][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.30.39:193][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.11.02-12.30.39:233][707]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.02-12.30.43:650][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.30.55:489][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.30.55:604][669]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.02-12.30.55:618][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.30.55:618][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.02-12.30.55:618][669]PIE: New page: PIE session: Mars (Nov 2, 2019, 2:30:55 PM)
+[2019.11.02-12.30.55:618][669]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2019.11.02-12.30.55:650][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032049s)
+[2019.11.02-12.30.55:651][669]LogAIModule: Creating AISystem for world Mars
+[2019.11.02-12.30.55:651][669]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2019.11.02-12.30.55:652][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.033296s)
+[2019.11.02-12.30.55:705][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.02-12.30.55:713][669]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.02-12.30.55:723][669]LogInit: FAudioDevice initialized.
+[2019.11.02-12.30.55:755][669]LogLoad: Game class is 'GameMode'
+[2019.11.02-12.30.55:758][669]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2019.11.02-13.30.55
+[2019.11.02-12.30.55:761][669]LogWorld: Bringing up level for play took: 0.005584
+[2019.11.02-12.30.55:774][669]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.02-12.30.55:774][669]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.02-12.30.55:774][669]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.02-12.30.55:775][669]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.02-12.30.55:775][669]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Mars 0.511
+[2019.11.02-12.30.55:775][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.31.02:002][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.31.02:002][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.31.02:032][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.02-12.31.02:032][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.31.02:087][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.31.02:092][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.11.02-12.31.02:130][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.02-12.31.07:263][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.02-12.31.08:801][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.02-12.31.09:677][789]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.02-12.31.23:755][576]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.02-12.31.23:782][576]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.02-12.33.48:290][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.33.48:559][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-12.33.48:594][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.02-12.33.48:913][425]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/MarsCCC2446B4E423FB86C369C84C13A4F08.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap'
+[2019.11.02-12.33.48:934][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2019.11.02-12.33.49:034][425]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_BuiltData7944ECB645118FC4789A21B563345BAE.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2019.11.02-12.33.51:337][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.02-12.33.53:800][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.02-12.33.53:809][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.02-12.33.58:518][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.33.58:693][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-12.33.58:728][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.02-12.33.59:031][932]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars8B21DE61487C8CD21281E2A6DDA3BDA1.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap'
+[2019.11.02-12.33.59:052][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2019.11.02-12.33.59:146][932]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_BuiltData5D6E50834FAF734C8222CA8BE598A7FB.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
+[2019.11.02-12.34.00:589][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.34.00:723][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.02-12.34.00:738][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.34.00:738][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.02-12.34.00:738][  6]PIE: New page: PIE session: Mars (Nov 2, 2019, 2:34:00 PM)
+[2019.11.02-12.34.00:738][  6]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mars
+[2019.11.02-12.34.00:770][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032171s)
+[2019.11.02-12.34.00:771][  6]LogAIModule: Creating AISystem for world Mars
+[2019.11.02-12.34.00:771][  6]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.11.02-12.34.00:771][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mars.Mars to /Game/Levels/UEDPIE_0_Mars.Mars (0.033093s)
+[2019.11.02-12.34.00:805][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.02-12.34.00:813][  6]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.02-12.34.00:824][  6]LogInit: FAudioDevice initialized.
+[2019.11.02-12.34.00:850][  6]LogLoad: Game class is 'bp_marsMarineGameMode_C'
+[2019.11.02-12.34.00:853][  6]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mars.Mars up for play (max tick rate 0) at 2019.11.02-13.34.00
+[2019.11.02-12.34.00:853][  6]LogWorld: Bringing up level for play took: 0.002335
+[2019.11.02-12.34.00:866][  6]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Mars -0.398
+[2019.11.02-12.34.00:866][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.34.06:919][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.34.06:920][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.34.06:950][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.02-12.34.06:950][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Mars.Mars:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mars.Mars:PersistentLevel.Mars' with GeneratedClass '/Game/Levels/Mars.Mars_C' with ClassGeneratedBy '/Game/Levels/Mars.Mars:PersistentLevel.Mars'
+[2019.11.02-12.34.07:002][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.02-12.34.07:007][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.02-12.34.07:047][723]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.02-12.34.11:905][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.02-12.34.13:858][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.02-12.34.14:488][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.02-12.34.15:234][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.02-12.34.15:872][247]LogEditorViewport: Clicking on Actor (LMB): bp_marine_C (bp_marine)
+[2019.11.02-12.34.21:129][537]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.02-12.34.24:773][738]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.02-12.34.25:717][788]LogEditorViewport: Clicking on Actor (LMB): bp_marine_C (bp_marine)
+[2019.11.02-12.34.38:351][557]Cmd: DELETE
+[2019.11.02-12.34.38:351][557]Cmd: ACTOR DELETE
+[2019.11.02-12.34.38:363][557]LogEditorActor: Deleted Actor: bp_marine_C
+[2019.11.02-12.34.38:397][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.02-12.34.38:398][557]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.11.02-12.34.46:499][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.02-12.34.46:775][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/bp_marine.bp_marine
+[2019.11.02-12.44.05:512][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.02-12.44.05:513][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Autosaves/Game/Levels/Mars_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.02-12.44.05:838][266]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_Auto1B0588DD7481C49F0CD3C07854F28BDF9.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Autosaves/Game/Levels/Mars_Auto1.umap'
+[2019.11.02-12.44.05:840][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Mars' took 0.382
+[2019.11.02-12.44.05:840][266]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2019.11.02-12.44.05:842][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/bp_marine] ([1] browsable assets)...
+[2019.11.02-12.44.05:842][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/bp_marine]
+[2019.11.02-12.44.05:858][266]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/bp_marine_Auto169B2AF3B475F806601B99D941D155EFE.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Autosaves/Game/Blueprints/Pawns/bp_marine_Auto1.uasset'
+[2019.11.02-12.44.05:858][266]LogFileHelpers: Auto-saving content packages took 0.017
+[2019.11.02-12.44.43:987][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/bp_marine" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Blueprints/Pawns/bp_marine.uasset" SILENT=true
+[2019.11.02-12.44.44:003][384]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/bp_marine4A4BE54F4906363E06D2D8ABEE4B1099.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Blueprints/Pawns/bp_marine.uasset'
+[2019.11.02-12.44.48:597][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-12.44.48:635][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.11.02-12.44.48:949][558]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars071D7908457682F919A00EAA069A1E90.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars.umap'
+[2019.11.02-12.44.48:971][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mars_BuiltData" FILE="../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset" SILENT=true
+[2019.11.02-12.44.49:070][558]LogSavePackage: Moving '../../../../../../courses/UEBlueprintCourse/MarsMarine/Saved/Mars_BuiltDataABC80D2342EF037438EB39B65DF356DE.tmp' to '../../../../../../courses/UEBlueprintCourse/MarsMarine/Content/Levels/Mars_BuiltData.uasset'
